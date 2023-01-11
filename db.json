@@ -1,0 +1,90 @@
+{
+  "User": [
+    {
+      "firstName": "asdasdas",
+      "lastName": "asdadsas",
+      "phoneNumber": 2121221121,
+      "email": "lion@gmail.com",
+      "displayName": "lion123",
+      "password": "lion1234",
+      "confirmPassword": "lion1234",
+      "id": 2
+    },
+    {
+      "firstName": "sdsadsajd",
+      "lastName": "sassa",
+      "phoneNumber": 1234567890,
+      "email": "shubuuuu@gmail.com",
+      "displayName": "dfcvgbn",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 3
+    },
+    {
+      "firstName": "Shubham",
+      "lastName": "Bangotra",
+      "phoneNumber": 6005057569,
+      "email": "shubham12@gmail.com",
+      "displayName": "Shubham12",
+      "password": "Shubham11",
+      "confirmPassword": "Shubham11",
+      "id": 4
+    },
+    {
+      "firstName": "Parag",
+      "lastName": "Joshi",
+      "phoneNumber": 1234554321,
+      "email": "parag1@gmail.com",
+      "displayName": "Parag1",
+      "password": "Parag1",
+      "confirmPassword": "Parag1",
+      "id": 5
+    }
+  ],
+  "Login": [
+    {
+      "id": 1,
+      "email": "",
+      "password": ""
+    },
+    {
+      "email": "parag1@gmail.com",
+      "password": "Parag1",
+      "id": 2
+    },
+    {
+      "email": "parag1@gmail.com",
+      "password": "Parag1",
+      "id": 3
+    },
+    {
+      "email": "parag1@gmail.com",
+      "password": "Parag1",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstName": "shubham",
+      "lastName": "Bangotra",
+      "email": "shubham123@gmail.com",
+      "phoneNumber": "1234567890",
+      "userName": "shubh123"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

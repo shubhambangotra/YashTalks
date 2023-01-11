@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularproject-51b50": {
+      "hosting": {
+        "YashTalks": [
+          "angularproject-51b50"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularproject-51b50"
+  }
+}
